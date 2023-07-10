@@ -23,6 +23,13 @@ use traits\UtilsTrait;
 require_once( APP_GAMEMODULE_PATH.'module/table/table.game.php' );
 
 require_once('modules/php/Constants.inc.php');
+
+require_once('modules/php/traits/UtilsTrait.php');
+require_once('modules/php/traits/ActionTrait.php');
+require_once('modules/php/traits/StateTrait.php');
+require_once('modules/php/traits/ArgsTrait.php');
+require_once('modules/php/traits/DebugTrait.php');
+
 class Gamename extends Table
 {
     use ActionTrait;
