@@ -1,2 +1,6 @@
-# bga-project
-Template repo for new BGA projects
+# bga-gamename
+
+# RULES
+
+# COPYRIGHT
+
